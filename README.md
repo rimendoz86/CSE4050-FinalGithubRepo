@@ -43,14 +43,14 @@ A first person shooter losely based on the hit film Die Hard.  The hero Broos Wi
 - https://assetstore.unity.com/packages/3d/props/guns/low-poly-weapons-vol-1-151980
 - https://www.mixamo.com/ (Gas Mask)
 - https://pixabay.com/
-- opengameart.org
+- https://opengameart.org
   - Concrete/Wood/Marble/Metal/Paper textures
   - Wooden doors
   - Railing barriers
   - Concrete barriers
   - Different cars
   - Bathroom items
-- turbosquid.com
+- https://turbosquid.com
   - Christmas decorations
   - Christmas wreath
   - Christmas Tree
