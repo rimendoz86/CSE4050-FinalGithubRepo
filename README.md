@@ -2,7 +2,7 @@
 
 ## A description of your game.
 Yippi Ki Yay: A Die Hard Story
-A first person shooter losely based on the hit film Die Hard.  The hero Broos Willies must advance between different floor of a building to complete the mission while dodging bullets, avoiding detection, and save the hipster hostages.
+A first person shooter losely based on the hit film Die Hard.  The hero Broos Willies must advance between different floors of a building to complete the mission while dodging bullets, avoiding detection, and saving the hipster hostages.
 
 ## The group members and their contributions.
 
@@ -15,14 +15,19 @@ A first person shooter losely based on the hit film Die Hard.  The hero Broos Wi
   - Health/Poison prefab
   - Character Vitals
 - Nesha Salazar
-  - Pending 
+  - Design and construction of building using ProBuilder:
+    - Floors, stairs, walls, windows, columns, elevator, some doors
+  - Finding and applying textures/materials to building objects
+  - Change of scenes from roof to basement using elevator
+  - Animation of swinging doors
+  - Transforming of sliding doors 
 - David Cruz Hernandez
   - Main Menu.
   - Player win and lose conditions text and panels.
   - Made player grenade.
   - Ability to pick up and use different weapons.
 - Erin Gonzalez
-  - Pending
+  - Acquire and implement sound effects and music 
 - Robert Ochoa
   - Enemy Animations (Idle, Walking, Taking Damage)
 - Izuchukwu Njoku
@@ -37,6 +42,21 @@ A first person shooter losely based on the hit film Die Hard.  The hero Broos Wi
 - https://assetstore.unity.com/packages/3d/characters/low-poly-young-girl-free-215047
 - https://assetstore.unity.com/packages/3d/props/guns/low-poly-weapons-vol-1-151980
 - https://www.mixamo.com/ (Gas Mask)
+- https://pixabay.com/
+- opengameart.org
+  - Concrete/Wood/Marble/Metal/Paper textures
+  - Wooden doors
+  - Railing barriers
+  - Concrete barriers
+  - Different cars
+  - Bathroom items
+- turbosquid.com
+  - Christmas decorations
+  - Christmas wreath
+  - Christmas Tree
+  - Glass-topped table
+  - Office desks & chairs
+  - Front Desk 
 
 ## Version of Unity
 2022.3.57f1
