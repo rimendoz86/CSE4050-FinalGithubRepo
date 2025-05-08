@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3b476ffb980b945bf84c203b39f03362
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - WinPanel: {instanceID: 0}
+  - LosePanel: {instanceID: 0}
+  - LoseReasonText: {instanceID: 0}
+  - WinReasonText: {instanceID: 0}
+  - victorySound: {fileID: 8300000, guid: f5423bdfb29544f598382d457675e8c3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

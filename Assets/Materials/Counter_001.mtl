@@ -1,0 +1,100 @@
+# Blender MTL File: 'Counter 001.blend'
+# Material Count: 9
+
+newmtl Material
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\User2\\Documents\\Pure fusion Element Studios\\3D Models\\Library - Textures\\Wood 08 4k\\Wood08_col.jpg
+map_Ns C:\\Users\\User2\\Documents\\Pure fusion Element Studios\\3D Models\\Library - Textures\\Wood 08 4k\\Wood08_rgh.jpg
+
+newmtl Material.002
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\User2\\Documents\\Pure fusion Element Studios\\3D Models\\Library - Textures\\Wood 08 4k\\Wood08_col.jpg
+map_Ns C:\\Users\\User2\\Documents\\Pure fusion Element Studios\\3D Models\\Library - Textures\\Wood 08 4k\\Wood08_rgh.jpg
+
+newmtl Material.003
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:\\Users\\User2\\Documents\\Pure fusion Element Studios\\3D Models\\Library - Textures\\Marble 06 4k\\Marble06_col.jpg
+
+newmtl Material.004
+Ns 552.677352
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Material.006
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\User2\\Documents\\Pure fusion Element Studios\\3D Models\\Library - Textures\\Marble 06 4k\\Marble06_col.jpg
+
+newmtl Material.007
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\User2\\Documents\\Pure fusion Element Studios\\3D Models\\Library - Textures\\Marble 06 4k\\Marble06_col.jpg
+
+newmtl Material.008
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\User2\\Documents\\Pure fusion Element Studios\\3D Models\\Library - Textures\\Marble 06 4k\\Marble06_col.jpg
+
+newmtl Material.009
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl glass
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: dcdcd85e641e6cd4086e0f74f97a26ee
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - HealthKitPrefab: {instanceID: 0}
+  - PoisonPrefab: {instanceID: 0}
+  - ActiveConsumable: {instanceID: 0}
+  - healthPickupSound: {fileID: 8300000, guid: fc2df7333148343f98598f2346ff75c5, type: 3}
+  - poisonPickupSound: {fileID: 8300000, guid: a74348279477841ae8c33c1dae84a6a9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
