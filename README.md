@@ -2,7 +2,7 @@
 
 ## A description of your game.
 Yippi Ki Yay: A Die Hard Story
-A first person shooter losely based on the movie Die Hard.  The hero Broos Willies must advance between different floor of a building to complete the mission while dodging bullets, avoiding detection, and save the hipster hostages.
+A first person shooter losely based on the hit film Die Hard.  The hero Broos Willies must advance between different floor of a building to complete the mission while dodging bullets, avoiding detection, and save the hipster hostages.
 
 ## The group members and their contributions.
 
