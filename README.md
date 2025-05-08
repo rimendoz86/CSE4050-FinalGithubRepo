@@ -25,7 +25,7 @@ A first person shooter losely based on the hit film Die Hard.  The hero Broos Wi
   - Pending
 - Robert Ochoa
   - Enemy Animations (Idle, Walking, Taking Damage)
-Izuchukwu Njoku
+- Izuchukwu Njoku
   - Pending 
 
 ## Attributions to any third-party assets you had used.
