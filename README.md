@@ -4,8 +4,10 @@
 Yippi Ki Yay: A Die Hard Story
 A first person shooter losely based on the hit film Die Hard.  The hero Broos Willies must advance between different floors of a building to complete the mission while dodging bullets, avoiding detection, and saving the hipster hostages.
 
-## The group members and their contributions.
+## Version of Unity
+2022.3.57f1
 
+## The group members and their contributions.
 - Ricardo Mendoza
   - Weapon and Projectile logic.
   - Enemy AI and Navigation (Node Waypoints)
@@ -57,6 +59,3 @@ A first person shooter losely based on the hit film Die Hard.  The hero Broos Wi
   - Glass-topped table
   - Office desks & chairs
   - Front Desk 
-
-## Version of Unity
-2022.3.57f1
