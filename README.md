@@ -21,8 +21,9 @@ A first person shooter losely based on the hit film Die Hard.  The hero Broos Wi
     - Floors, stairs, walls, windows, columns, elevator, some doors
   - Finding and applying textures/materials to building objects
   - Change of scenes from roof to basement using elevator
-  - Animation of swinging doors
-  - Transforming of sliding doors 
+  - Animations and transformations for doors
+  - Door logic
+  - Placement of office object prefabs
 - David Cruz Hernandez
   - Main Menu.
   - Player win and lose conditions text and panels.
