@@ -27,6 +27,7 @@ A first person shooter losely based on the hit film Die Hard.  The hero Broos Wi
 - David Cruz Hernandez
   - Main Menu.
   - Player win and lose conditions text and panels.
+  - Weapon Muzzle Flash
   - Made player grenade.
   - Ability to pick up and use different weapons.
 - Erin Gonzalez
