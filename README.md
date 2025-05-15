@@ -31,9 +31,11 @@ A first person shooter losely based on the hit film Die Hard.  The hero Broos Wi
   - Made player grenade.
   - Ability to pick up and use different weapons.
 - Erin Gonzalez
-  - Acquire and implement sound effects and music 
+  - Acquire and implement sound effects and music
+  - Misc. Testing
 - Robert Ochoa
   - Enemy Animations (Idle, Walking, Taking Damage)
+  - Misc. Testing
 - Izuchukwu Njoku
   - Pending 
 
